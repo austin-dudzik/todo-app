@@ -8,10 +8,10 @@ session_start();
 date_default_timezone_set('America/Chicago');
 
 $host = "localhost"; // Host (typically "localhost")
-$username = "root"; // Database Username
+$username = ""; // Database Username
 $password = ""; // Database password
-$dbname = "todo"; // Database name
-$url = "http://10.10.10.5/campfire"; // Iinstallation URL (Don't add / at the end)
+$dbname = ""; // Database name
+$url = ""; // Iinstallation URL (Don't add / at the end)
 
 // DON"T EDIT BELOW THIS LINE
 
